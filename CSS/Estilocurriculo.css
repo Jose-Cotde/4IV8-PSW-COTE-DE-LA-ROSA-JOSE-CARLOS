@@ -1,0 +1,36 @@
+body {
+    background: #296573; ;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1;
+    margin: 1;
+}
+
+.rectangulo {
+    width: 78%; 
+    height: 20%; 
+    background: #0DD98E;
+    float: right;
+    border: 3px solid #073540;
+}
+
+.lado{
+    width: 20%;
+    height: 100%;
+    background: #1C8C81;
+    border: 3px solid #073540;
+    float: left;
+}
+
+.centro{
+    width: 78%;
+    height: 100%;
+    background: #08A679;
+    border: 3px solid #073540;
+    float:right;
+}
+.imagen{
+    width:20% ;
+    height:20% ;
+    border: 3px solid #073540;
+}
